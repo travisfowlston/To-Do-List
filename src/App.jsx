@@ -1,9 +1,7 @@
+import ToDoList from "./toDoList.jsx";
+
 function App() {
-  return (
-    <>
-      <h1>App</h1>
-    </>
-  );
+  return <ToDoList />;
 }
 
 export default App;
